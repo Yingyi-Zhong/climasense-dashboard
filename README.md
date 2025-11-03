@@ -12,7 +12,7 @@ By integrating real-time weather and air quality data, it offers **personalized 
 - **Real-Time Weather Insights:** Displays up-to-date temperature, humidity, and wind conditions.  
 - **Air Quality Visualization:** Integrates Open-Meteo Air Quality API for real-time AQI data.  
 - **Personalized Suggestions:** Recommends suitable activities and outfits based on weather comfort.  
-- **Interactive Dashboard:** Clean and responsive layout optimized for both desktop and mobile.  
+- **Interactive Dashboard:** Clean and responsive layout for clear weather visualization.  
 - **Feedback Form:** Allows users to send suggestions or questions directly through the contact form.
 
 
@@ -25,7 +25,6 @@ This dashboard uses **free, open-source APIs** to ensure accurate and up-to-date
 ## Credits
 - **Template:** [Landify Bootstrap Template](https://bootstrapmade.com/landify-bootstrap-landing-page-template/)  
 - **Design & Customization:** Yingyi Zhong  
-- **License:** [BootstrapMade License](https://bootstrapmade.com/license/)
 
 ## License
 This project is licensed under the BootstrapMade license for personal and educational use.  
